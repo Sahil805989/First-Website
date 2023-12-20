@@ -1,0 +1,63 @@
+/* Global styles for the body */
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+/* Paragraph styles */
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+/* Custom text class */
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+
+/* Image styling */
+img {
+    float: right;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+/* Heading 1 styles */
+.h1 {
+    font-size: 25px;
+    color: #446868;
+}
+
+/* Figure styling */
+figure {
+    margin-left: 0%;
+}
+
+/* Headings styles */
+.headings {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+/* Heading text shadow */
+.heading {
+    text-shadow: 1px 2px 2px #a76666;
+}
+
+/* List item styling */
+li {
+    display: inline-block;
+    padding: 20px;
+    text-decoration: none;
+    background-color: rgb(145, 177, 205);
+}
+
+/* Navigation link styles */
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
